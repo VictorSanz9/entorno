@@ -7,7 +7,7 @@ int i;
 for(i=1;i>total;i++)
 {
 if(i%2!=0){
-cambio dos 
+Cambio
 System.out.println(i);
 }
 }
